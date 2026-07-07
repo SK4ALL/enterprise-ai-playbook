@@ -115,7 +115,7 @@
 
     <div class="cta-row">
       <a class="btn btn-primary" href="Enterprise_AI_Playbook.pptx" download>Download the Deck (.pptx)</a>
-      <a class="btn btn-secondary" href="Funding_the_Shift_to_Autonomous_AI_Part_2.md">Read the Research</a>
+      <a class="btn btn-secondary" href="Funding_the_Shift_to_Autonomous_AI_Part_2.pdf" target="_blank" rel="noopener">Read the Research (PDF)</a>
     </div>
   </div>
 </div>
@@ -125,13 +125,6 @@
   <h2>All 14 slides</h2>
   <p class="section-desc">Title, 11 persona profiles, a consolidated reference table, and a closing slide — each one sourced, verified, and downloadable individually.</p>
   <div class="gallery" id="gallery"></div>
-</div>
-
-<div class="wrap section" style="padding-top:0;">
-  <div class="section-tag">Ready to Share</div>
-  <h2>The launch post</h2>
-  <p class="section-desc">Copy-paste ready for LinkedIn.</p>
-  <div class="post-box" id="post-box">Loading…</div>
 </div>
 
 <div class="wrap section" style="padding-top:0;">
@@ -171,11 +164,6 @@
     a.innerHTML = `<img src="${file}" loading="lazy" alt="Slide ${n} of 14"><div class="gallery-label">Slide ${n} of 14</div>`;
     gallery.appendChild(a);
   }
-
-  fetch('linkedin-post.txt')
-    .then(r => r.ok ? r.text() : Promise.reject())
-    .then(text => { document.getElementById('post-box').textContent = text; })
-    .catch(() => { document.getElementById('post-box').textContent = 'Post file not found — make sure linkedin-post.txt is uploaded alongside index.html.'; });
 </script>
 
 </body>

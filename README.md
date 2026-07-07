@@ -31,7 +31,7 @@ Every company figure in this deck has been independently verified against a prim
 | 06 | Idle compute | Not applicable — no company discloses this metric |
 | 07 | Deere R&D $2.18B → $2.31B | [SEC 10-K, FY2025](https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/de-20251102x10k.htm) |
 | 08 | ServiceNow $2.5B R&D (2024) | [SEC 10-K, FY2024](https://www.sec.gov/Archives/edgar/data/1373715/000137371525000010/now-20241231.htm) |
-| 09 | Spotify capex ~€6M (2023) | [SEC Form 20-F, FY2023](https://www.sec.gov/Archives/edgar/data/1639920/000163992024000004/ck0001639920-20231231.htm) |
+| 09 | Spotify capex ~€6M / ~$6.6M (2023) | [SEC Form 20-F, FY2023](https://www.sec.gov/Archives/edgar/data/1639920/000163992024000004/ck0001639920-20231231.htm) |
 | 10 | Walmart $23.8B capex (FY2025) | [SEC 10-K, FY2025](https://www.sec.gov/Archives/edgar/data/104169/000010416925000021/wmt-20250131.htm) |
 | 11 | Mixed model estate | Not applicable — no company discloses this metric |
 
